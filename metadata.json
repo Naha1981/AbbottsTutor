@@ -1,0 +1,8 @@
+{
+  "name": "Country Video to Learning App",
+  "description": "Instantly turn YouTube videos into fun learning apps using AI. Explore concepts visually and learn actively!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}

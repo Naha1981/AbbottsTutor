@@ -1,0 +1,197 @@
+
+[
+  {
+    "subject": "Physical Sciences",
+    "terms": [
+      {
+        "term_name": "Term 1",
+        "topics": [
+          "Newton's Laws of Motion",
+          "Work, Energy and Power",
+          "Momentum and Impulse"
+        ]
+      },
+      {
+        "term_name": "Term 2",
+        "topics": [
+          "Doppler Effect (Waves, Sound and Light)",
+          "Electrostatics",
+          "Electric Circuits (Intro)"
+        ]
+      },
+      {
+        "term_name": "Term 3",
+        "topics": [
+          "Electric Circuits (Advanced)",
+          "Electromagnetism",
+          "Optical Phenomena and Properties of Materials"
+        ]
+      },
+      {
+        "term_name": "Term 4",
+        "topics": [
+          "Chemical Change: Rate and Extent",
+          "Chemical Equilibrium",
+          "Acids and Bases (Intro)"
+        ]
+      },
+      {
+        "term_name": "Final Revision (Full Year)",
+        "topics": [
+            "Acids and Bases (Advanced)",
+            "Electrochemical Reactions",
+            "The Chemical Industry",
+            "Revision of all Mechanics",
+            "Revision of all Waves, Sound & Light",
+            "Revision of all Electricity & Magnetism",
+            "Revision of all Matter & Materials"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "terms": [
+      {
+        "term_name": "Term 1",
+        "topics": [
+          "Algebraic Expressions and Equations",
+          "Exponents and Surds",
+          "Number Patterns, Sequences and Series"
+        ]
+      },
+      {
+        "term_name": "Term 2",
+        "topics": [
+          "Functions and Graphs (Linear, Quadratic, Hyperbolic, Exponential)",
+          "Finance, Growth and Decay (Simple and Compound Interest)"
+        ]
+      },
+      {
+        "term_name": "Term 3",
+        "topics": [
+          "Calculus (Differential)",
+          "Probability",
+          "Finance, Growth and Decay (Annuities - Present & Future Value)"
+        ]
+      },
+      {
+        "term_name": "Term 4",
+        "topics": [
+          "Statistics (Data Handling, Regression, Correlation)",
+          "Trigonometry (2D and 3D problems, Compound & Double Angles)",
+          "Analytical Geometry (Circles, Tangents)",
+          "Euclidean Geometry (Proportionality, Similarity)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Life Sciences",
+    "terms": [
+      {
+        "term_name": "Term 1",
+        "topics": [
+          "The Chemistry of Life",
+          "Cells: The Basic Units of Life",
+          "Cell Division: Mitosis",
+          "Plant and Animal Tissues"
+        ]
+      },
+      {
+        "term_name": "Term 2",
+        "topics": [
+          "Plant Organs: Leaf Structure and Function",
+          "Support and Transport Systems in Plants",
+          "Support Systems in Animals",
+          "Transport Systems in Animals (Circulatory, Lymphatic)"
+        ]
+      },
+      {
+        "term_name": "Term 3",
+        "topics": [
+          "Gaseous Exchange (Plants and Animals)",
+          "Excretion in Humans",
+          "Population Ecology",
+          "Human Impact on the Environment (Negative Impacts)"
+        ]
+      },
+      {
+        "term_name": "Term 4",
+        "topics": [
+          "Human Impact on the Environment (Management and Solutions)",
+          "Genetics and Inheritance (Mendel's Laws)",
+          "DNA: The Code of Life (Structure, Replication, Protein Synthesis)",
+          "Meiosis",
+          "Evolution (Darwinism, Natural Selection, Speciation)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "terms": [
+        {
+            "term_name": "Term 1",
+            "topics": [
+                "The Cold War: Origins and Early Crises",
+                "Case Study: Vietnam War"
+            ]
+        },
+        {
+            "term_name": "Term 2",
+            "topics": [
+                "Independent Africa: Comparative Case Studies (e.g., Ghana, Congo)",
+                "Civil Society Protests (1950s to 1970s): USA Civil Rights Movement"
+            ]
+        },
+        {
+            "term_name": "Term 3",
+            "topics": [
+                "Civil Society Protests (1950s to 1970s): Anti-Apartheid Movement (Global)",
+                "Civil Resistance in South Africa (1970s and 1980s)"
+            ]
+        },
+        {
+            "term_name": "Term 4",
+            "topics": [
+                "The Coming of Democracy in South Africa and Coming to Terms with the Past (TRC)",
+                "The End of the Cold War and a New Global Order"
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "terms": [
+        {
+            "term_name": "Term 1",
+            "topics": [
+                "Climate and Weather: Global Circulation, Climate Regions",
+                "Geomorphology: Fluvial Processes and Landforms"
+            ]
+        },
+        {
+            "term_name": "Term 2",
+            "topics": [
+                "Geomorphology: Slope Processes and Mass Movements",
+                "Rural and Urban Settlements: Structure, Issues, Strategies"
+            ]
+        },
+        {
+            "term_name": "Term 3",
+            "topics": [
+                "Economic Geography of South Africa: Primary, Secondary, Tertiary Sectors",
+                "Mapwork Skills and Techniques (Advanced)"
+            ]
+        },
+        {
+            "term_name": "Term 4",
+            "topics": [
+                "Geographical Skills and Techniques (Application and Interpretation)",
+                "Revision and Exam Preparation"
+            ]
+        }
+    ]
+  }
+]
